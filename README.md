@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarthak Patrikar 👋</h1>
+<h1 align="center">Hi, I'm Sarthak Patrikar </h1>
 <p align="center">
   Robotics & AI Undergrad · Embedded Systems · IoT · Drones · ML
 </p>
